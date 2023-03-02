@@ -1,6 +1,6 @@
 package Lesson1;
 
-public class HomeTask {
+public class homeTask {
     public static void main(String[] args) {
         byte b = 4;
         short s = 122;
